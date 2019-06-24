@@ -1,0 +1,30 @@
+#container{
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;
+    margin-left: 400px;
+    position: relative;
+}
+#head{
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+#food {
+    background-color: green;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+.body{
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+#counter{
+    font-size: 40px;
+    margin-left: 400px;
+}
+/* border 570 px every side */
